@@ -1,0 +1,103 @@
+Script iniziato su mar 26 giu 2012 17:49:34 CEST
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ $script/generate scaffold post name:string address :text dob:date desire:text interests:text hobby:text signature:text[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd root[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$script/generate scaffold post name:string address::text dob:date desire:text interests:text hobby:text signature:text[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript/generate scaffold post name:string address:t[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ 
+
+bash: script/generate: File o directory non esistente
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ script/generate scaffold post name:string address:ttext dob:date desire:text interests:text hobby:text signature:text[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:te[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:tex[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:text[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:text [1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:text d[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:text do[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:text dob[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:string address:text dob:[1P[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr:string address:text dob[1@:[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co:string address:text do[1@b[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cv:string address:text d[1@o[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca:string address:text [1@d[A]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+bash: script/generate: File o directory non esistente
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ cd /
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ cd /script/generate scaffold prova:string address:text dob:daate desire:text interests:text hobby:text signature:text
+bash: script/generate: File o directory non esistente
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ script/generate scaffold prova:string address:text dob:daate desire:text interests:text hobby:text signature:text[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd /[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript/generate scaffold prova:string address:text dob:daate desire:text interests:text hobby:text signature:text[Aost name:string address:text do[4@b:da[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+bash: script/generate: File o directory non esistente
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ script/generate scaffold post name:string address:text doob:date desire:text interests:text hobby:text signature:text[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+bash: script/generate: File o directory non esistente
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ $script/generate scaffold post name:string address:text  dob:date desire:text interests:text hobby:text signature:text
+bash: /generate: File o directory non esistente
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ c[K]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ cd prova
+bash: cd: prova: File o directory non esistente
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ dir
+bin    home	       media  run      tmp
+boot   initrd.img      mnt    sbin     usr
+cdrom  initrd.img.old  opt    selinux  var
+dev    lib	       proc   srv      vmlinuz
+etc    lost+found      root   sys      vmlinuz.old
+]0;luca@luca-VirtualBox: /luca@luca-VirtualBox:/$ cd home
+]0;luca@luca-VirtualBox: /homeluca@luca-VirtualBox:/home$ cd luca
+]0;luca@luca-VirtualBox: ~luca@luca-VirtualBox:~$ cd prova
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ dir
+app	   db	    Gemfile.lock  public       script  tmp
+config	   doc	    lib		  Rakefile     server  vendor
+config.ru  Gemfile  log		  README.rdoc  test
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ subl ublic/hello.htmlpublic/hello.html
+No command 'subl' found, did you mean:
+ Command 'subs' from package 'libsubtitles-perl' (universe)
+ Command 'publ' from package 'atfs' (universe)
+subl: command not found
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ subl public/hello.html
+No command 'subl' found, did you mean:
+ Command 'subs' from package 'libsubtitles-perl' (universe)
+ Command 'publ' from package 'atfs' (universe)
+subl: command not found
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ nano public/hello.html
+[?1049h[1;23r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6     File: public/hello.html                   [21;25H[ Nuovo file ][22d^G(B[m Guida  (B[0;7m^O(B[m Salva  (B[0;7m^R(B[m Inseris(B[0;7m^Y(B[m Pag Pre(B[0;7m^K(B[m Taglia (B[0;7m^C(B[m Posizione[23d(B[0;7m^X(B[m Esci   (B[0;7m^J(B[m Giustif(B[0;7m^W(B[m Cerca  (B[0;7m^V(B[m Pag Suc(B[0;7m^U(B[m Incolla(B[0;7m^T(B[m Ortografi[?7la[?7h[3d[1;52H(B[0;7mModificato[3d(B[0m[34m<!DOCTYPE html>[4d<html>[5;3H<head>[6;5H<title>[39m(B[mGreeting[34m</title>[7;3H</head>[8;3H<body>[9;5H<p>[39m(B[mHello, world![34m</p>[10;3H</body>[11d</html>[21d[39m(B[m[K[11;8H[21d(B[0;7mNome del file in cui salvare: public/hello.html                [22;11H(B[m     (B[0;7mM-D(B[m Formato DOS(B[0;7mM-A(B[m Accoda     (B[0;7mM-B(B[m File di backup[23;2H(B[0;7mC(B[m Annulla     (B[0;7mM-M(B[m Formato Mac(B[0;7mM-P(B[m Scrivi in test[K[21d[1;52H[39;49m(B[0;7m          [21;22H(B[m[1K (B[0;7m[ Scritte 9 righe ](B[m[K[22;11H(B[0;7m^O(B[m Salva  (B[0;7m^R(B[m Inseris(B[0;7m^Y(B[m Pag Pre(B[0;7m^K(B[m Taglia (B[0;7m^C(B[m Posizione[K[23;2H(B[0;7mX(B[m Esci   (B[0;7m^J(B[m Giustif(B[0;7m^W(B[m Cerca  (B[0;7m^V(B[m Pag Suc(B[0;7m^U(B[m Incolla(B[0;7m^T(B[m Ortografi[?7la[?7h[11;8H[22d[J[23;63H[23;1H[?1049l[?1l>]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ rails generate scaffold User name w[K:string email:string
+[1m[37m      invoke[0m  active_record
+[1m[32m      create[0m    db/migrate/20120629215514_create_users.rb
+[1m[32m      create[0m    app/models/user.rb
+[1m[37m      invoke[0m    test_unit
+[1m[32m      create[0m      test/unit/user_test.rb
+[1m[32m      create[0m      test/fixtures/users.yml
+[1m[37m      invoke[0m  resource_route
+[1m[32m       route[0m    resources :users
+[1m[37m      invoke[0m  scaffold_controller
+[1m[32m      create[0m    app/controllers/users_controller.rb
+[1m[37m      invoke[0m    erb
+[1m[32m      create[0m      app/views/users
+[1m[32m      create[0m      app/views/users/index.html.erb
+[1m[32m      create[0m      app/views/users/edit.html.erb
+[1m[32m      create[0m      app/views/users/show.html.erb
+[1m[32m      create[0m      app/views/users/new.html.erb
+[1m[32m      create[0m      app/views/users/_form.html.erb
+[1m[37m      invoke[0m    test_unit
+[1m[32m      create[0m      test/functional/users_controller_test.rb
+[1m[37m      invoke[0m    helper
+[1m[32m      create[0m      app/helpers/users_helper.rb
+[1m[37m      invoke[0m      test_unit
+[1m[32m      create[0m        test/unit/helpers/users_helper_test.rb
+[1m[37m      invoke[0m  assets
+[1m[37m      invoke[0m    coffee
+[1m[32m      create[0m      app/assets/javascripts/users.js.coffee
+[1m[37m      invoke[0m    scss
+[1m[32m      create[0m      app/assets/stylesheets/users.css.scss
+[1m[37m      invoke[0m  scss
+[1m[32m      create[0m    app/assets/stylesheets/scaffolds.css.scss
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ bundle exec rake db:migrate
+==  CreateUsers: migrating ====================================================
+-- create_table(:users)
+   -> 0.0023s
+==  CreateUsers: migrated (0.0094s) ===========================================
+
+]0;luca@luca-VirtualBox: ~/provaluca@luca-VirtualBox:~/prova$ rails s
+=> Booting WEBrick
+=> Rails 3.2.6 application starting in development on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+[2012-06-29 23:59:30] INFO  WEBrick 1.3.1
+[2012-06-29 23:59:30] INFO  ruby 1.9.3 (2012-04-20) [i686-linux]
+[2012-06-29 23:59:30] WARN  TCPServer Error: Address already in use - bind(2)
+Exiting
+/home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/utils.rb:85:in `initialize': Address already in use - bind(2) (Errno::EADDRINUSE)
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/utils.rb:85:in `new'
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/utils.rb:85:in `block in create_listeners'
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/utils.rb:82:in `each'
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/utils.rb:82:in `create_listeners'
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:82:in `listen'
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:70:in `initialize'
+	from /home/luca/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:45:in `initialize'
+	from /home/luca/.rvm/gems/ruby-1.9.3-p194/gems/rack-1.4.1/lib/rack/handler/webrick.rb:10:in `new'
+	from /home/luca/.rvm/gems/ruby-1.9.3-p194/gems/rack-1.4.1/lib/rack/handler/webrick.rb:10:in `run'
+	from /home/luca/.rvm/gems/ruby-1.9.3-p194/gems/rack-1.4.1/lib/rack/server.rb:265:in `start'
+	from /home/luca/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.6/lib/rails/commands/server.rb:70:in `start'
+	from /home/luca/.rvm/gems/ruby-1.9.3-p194/gems/railties-3.2.6/lib/rails/comm
